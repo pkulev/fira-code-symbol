@@ -4,7 +4,7 @@
 
 ;; Author: Peter Chou <2747244153@qq.com>
 ;; URL: https://github.com/Peter-Chou/fira-code-symbol
-;; Version: 0.1
+;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.4"))
 ;; Keywords: FiraCode, faces
 
