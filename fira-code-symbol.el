@@ -5,13 +5,14 @@
 ;; Author: Peter Chou <2747244153@qq.com>
 ;; URL: https://github.com/Peter-Chou/fira-code-symbol
 ;; Version: 0.1.0
+;; Package-Version: 0.1.0
 ;; Package-Requires: ((emacs "24.4"))
 ;; Keywords: FiraCode, faces
 
-;;; This file is NOT part of GNU Emacs
+;; This file is NOT part of GNU Emacs
 
 ;;; License
-;;
+
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation; either version 3, or (at your option)
@@ -26,6 +27,10 @@
 ;; along with this program; see the file COPYING.  If not, write to
 ;; the Free Software Foundation, Inc., 51 Franklin Street, Fifth
 ;; Floor, Boston, MA 02110-1301, USA.
+
+;;; Commentary:
+
+;; makes FiraCode Symbols work in Emacs
 
 ;;; Code:
 
